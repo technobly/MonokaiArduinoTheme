@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/DubbyTT/MonokaiArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.github.com/technobly/MonokaiArduinoTheme/master/screenshot.png)
 
 Monokai Arduino Theme
 ================
@@ -24,4 +24,4 @@ The `theme` folder also includes a Photoshop (.psd) file for the buttons which i
 
 ####CREDITS
 1. Images - Jeff Thompson [https://github.com/jeffThompson/DarkArduinoTheme](https://github.com/jeffThompson/DarkArduinoTheme)
-2. Monokai Styling (Theme.txt, Preferences.txt) - DubbyTT [https://github.com/DubbyTT/MonokaiArduinoTheme](https://github.com/DubbyTT/MonokaiArduinoTheme)
+2. Monokai Styling (Theme.txt, Preferences.txt) - Technobly [https://github.com/technobly/MonokaiArduinoTheme](https://github.com/technobly/MonokaiArduinoTheme)
