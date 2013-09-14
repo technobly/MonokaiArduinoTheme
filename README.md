@@ -4,7 +4,7 @@ Monokai Arduino Theme
 ================
 
 If you love Sublime Text 2 and the Monokai Color Style, here's a similar theme/skin for the Arduino IDE.
-There are not enough system variables to make it exact, but it's much better than the default.
+There are not enough system variables to make it exact, but it's much better than the default. 
 
 \- \- \-
 
