@@ -3,16 +3,16 @@
 Monokai Arduino Theme
 ================
 
-If you love Sublime Text 2 and the Monokai Color Style, here's a similar theme/skin for the Arduino IDE.
+If you love Sublime Text 2/3 and the Monokai Color Style, here's a similar theme/skin for the Arduino IDE.
 There are not enough system variables to make it exact, but it's much better than the default. 
 
 \- \- \-
 
 ####INSTALLATION
 1. **PREFERENCES.TXT**  
-On Windows, located here: `%AppData%\Roaming\Arduino` replace your `preferences.txt` with mine.
+On Windows, located here: `%AppData%\Roaming\Arduino15` replace your `preferences.txt` with mine.
 2. **THEME FOLDER**  
-On Windows, located here: `..\arduino-1.0.5\lib\` replace the `theme` folder inside (making a copy of the original in case you hate my changes!)
+On Windows, located here: `..\Program Files\Arduino\lib\` replace the `theme` folder inside (making a copy of the original in case you hate my changes!)
 This folder contains a 'themes.txt' file with the bulk of the changes (mostly colors).  Buttons and tabs are stored as image files, which have been modified to fit the color scheme
 
 ####PSD 'BUTTONS' FILE
