@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/technobly/MonokaiArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Osyrus/MonokaiArduinoTheme/master/screenshot.png)
 
 Monokai Arduino Theme
 ================
